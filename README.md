@@ -18,10 +18,6 @@ Modern retail inventory management platform designed to streamline product track
 
 Full-stack tournament management platform developed for use across multiple Shoppers Drug Mart locations. Provides tournament brackets, leaderboards, scoring systems, and administrative tools for managing competitive events and participant progress.
 
-### AI Transportation Assignment System
-
-AI-powered transportation automation system developed to automate truck, driver, and load assignment workflows. Uses rule-based constraint logic and weighted scoring to evaluate equipment compatibility, compliance requirements, and time-window feasibility while supporting real-time assignment updates and automated communication workflows.
-
 ### Educational Platform Automation
 
 Browser automation utilities built using JavaScript and DOM manipulation techniques to automate interactive educational platform workflows, UI interactions, animation systems, and form-based browser automation tasks.
